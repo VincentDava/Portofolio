@@ -33,7 +33,7 @@ export const SocialLinks = () => {
                 </li>
 
                 <li className='flex justify-between items-center w-40 h-14 px-4 mr-[-100px] hover:mr-[-10px] hover:rounded-md duration-300 bg-gray-500 rounded-br-md hover:bg-gray-800'>
-                <a href="./resume.pdf" className='flex justify-between items-center w-full text-white' download={true} target='_blank' rel="noreferrer">
+                <a href="./CV.pdf" className='flex justify-between items-center w-full text-white' download={true} target='_blank' rel="noreferrer">
                 <>
                  <BsFillPersonLinesFill size={30}/>Resume 
                 </>
